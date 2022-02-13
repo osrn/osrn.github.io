@@ -1,4 +1,4 @@
-# osrn | Solar Ağı Delege Önermesi
+# osrn | Solar Ağı Delege Önerisi
 Bir teknoloji meraklısı olarak, blok zincir ve yeni nesil teknolojilere doğal bir ilgim var. Solar ve Ark tabanlı zincirlerde yeni olmama rağmen, yanımda Telekom, Medya ve IoT alanlarında uzun yıllara dayanan Dijital Pazarlama, İş Geliştirme ve Mühendislik deneyimini getiriyorum. 25 yıla yakın bir süredir de, hem profesyonel hem de kişisel projelerde *nix tabanlı sistemler ve sunucular ile çalıştım, kurulum ve bakımını üstlendim.
 
 # Şu ana kadar,
@@ -29,7 +29,7 @@ Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak iç
 
 <a id="roadmap-1"></a>
 ## Roadmap
-**(*)** Geçtiğimiz hafta bir **Mikro Mobilite Kentsel Ulaşım girişimiyle** 4. çeyrekte duyurusunu yapacakları yeni projelerinde **SXP ile ödeme kabul etmeleri** ve yine aynı proje kapsamında çıkarmak istedikleri **NFT varlıklarını  Solar Ağında yayınlamaları**'na imkan sağlamak üzere bir prensip anlaşması yaptık. Bu projeyi **Delege mtaylan** ile birlikte yürüteceğiz. Bu konuda detaylı bilgi ve planları, ilerleyen haftalarda firmanın pazarlama ve duyuru planlarına paralel olarak paylaşıyor olacağım.
+**(*)** Geçtiğimiz hafta bir **Mikro Mobilite Kentsel Ulaşım girişimiyle** 4. çeyrekte duyurusunu yapacakları yeni projelerinde **SXP ile ödeme kabul etmeleri** ve yine aynı proje kapsamında çıkarmak istedikleri **NFT varlıklarını  Solar Ağında yayınlamalarına** imkan sağlamak üzere bir prensip anlaşması yaptık. Bu projeyi **Delege mtaylan** ile birlikte yürüteceğiz. Bu konuda detaylı bilgi ve planları, ilerleyen haftalarda firmanın pazarlama ve duyuru planlarına paralel olarak paylaşıyor olacağım.
 
 ---
 **Bir delege olarak oyunuzu ve desteğinizi almaktan mutluluk duyacağım.**
