@@ -1,4 +1,4 @@
-# osrn hakkında
+# osrn | Solar Ağı Delege Önermesi
 Bir teknoloji meraklısı olarak, blok zincir ve yeni nesil teknolojilere doğal bir ilgim var. Solar ve Ark tabanlı zincirlerde yeni olmama rağmen, yanımda Telekom, Medya ve IoT alanlarında uzun yıllara dayanan Dijital Pazarlama, İş Geliştirme ve Mühendislik deneyimini getiriyorum. 25 yıla yakın bir süredir de, hem profesyonel hem de kişisel projelerde *nix tabanlı sistemler ve sunucular ile çalıştım, kurulum ve bakımını üstlendim.
 
 # Şu ana kadar,
