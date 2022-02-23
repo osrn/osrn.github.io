@@ -79,8 +79,8 @@ pre {
     color: #70777b;
 }
 .page_header .content .text {
-    padding: 24px 24px 22px 24px;
-    font-size: 22px;
+    padding: 12px 24px 8px 24px;
+    font-size: 18px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
