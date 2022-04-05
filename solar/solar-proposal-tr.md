@@ -1,16 +1,20 @@
 # osrn | Solar Ağı Delege Önerisi
 Testnet'in ilk aşamalarından beri Solar Delegesiyim. Telekom, Medya ve IoT alanlarında uzun yıllara dayanan Dijital Pazarlama, İş Geliştirme ve Mühendislik deneyimimle projeye katıldım. Bir teknoloji meraklısı olarak, blokzincir gibi yeni nesil teknolojilere doğal bir ilgim var ve 25 yıla yakın bir süredir de hem profesyonel hem de kişisel projelerde *nix tabanlı sistemler ve sunucular ile çalıştım, kurulum ve bakımını üstlendim.
 
-# Şu ana kadar,
+> *This delegate proposal is [available here in English](https://delegates.solar.org/sxp/delegates/osrn).*
+
+## Solar Network'de şu ana kadar,
 
 - [x] hem Mainnet hem de Devnet'te birden fazla node çalıştırdım, ve aktif olarak geliştirme ve test çalışmalarına katıldım.
 - [x] bir çok delege tarafından oy verenlerin ödüllerinin hesaplanması ve dağıtımında kullanılan[Galperins4/True Block Weight](https://github.com/galperins4/core2_tbw) ödül paylaşım algoritması kodlamasına düzenli olarak katkıda bulunuyor ve kurulumu için diğer delegelere destek oluyorum. Katkılarıma göz atmak için [GitHub alanımı ziyaret edin](https://github.com/osrn/core2_tbw)
 - [x] Solar Desktop Cüzdan kullanımı, swap ve oylama sürecini [Türkçe](https://youtu.be/WA38JbE3MlE) ve [İngilizce](https://youtu.be/W4qAOb50Pcw) olarak anlatan videolar yayınladım, Telegram ve Discord gruplarında yatırımcıların soru ve sorunlarında destek oldum.
 - [x] proje yol haritası gibi bilgileri sade ve görsel olarak anlatan [Türkçe](https://osrn.github.io/solar/solar-roadmap-2022-infogx-tr.jpg) ve [İngilizce](https://osrn.github.io/solar/solar-roadmap-2022-infogx-en.jpg) infografikler yayınladım.
 - bazı uygulamalara Türkçe dil desteği eklenmesine destek oldum.
-- [x] Telegram'da Solar Network Türkiye 🇹🇷 topluluğunun düzenlediği AMA oturumuna katıldım. Etkinliğin Türkçe dökümüne [bu linkten](https://t.me/solarnetwork_tr/17902), İngilizce dökümüne ise [bu linkten]](https://youtu.be/howzWfVJUgA) ulaşabilirsiniz.
-- [x] sunucuları monitor eden ve sağlık durumunu anlık mesaj ile bildiren [Lazy Delegate](https://github.com/osrn/lazy-delegate), uygulamasını yazdım. (Piton tabanlı bu uygulamayı yazarken Delege mtaylan'ın daha önce yazmış olduğu [SOLAR NODE MONITOR](https://github.com/mtaylan/SOLAR_NODE_Monitor_Discord) scriptindeki gözlem noktaları ve metodları temel aldım.)
+- [x] Telegram'da Solar Network Türkiye 🇹🇷 topluluğunun düzenlediği AMA oturumuna katıldım. Etkinliğin Türkçe dökümüne [bu linkten](https://t.me/solarnetwork_tr/17902), İngilizce dökümüne ise [bu linkten](https://youtu.be/howzWfVJUgA) ulaşabilirsiniz.
+- [x] sunucuları monitor eden ve sağlık durumunu anlık mesaj ile bildiren [Lazy Delegate](https://github.com/osrn/lazy-delegate), uygulamasını yazdım. (Piton tabanlı bu uygulamayı yazarken Delege mtaylan'ın daha önce yayınladığı [SOLAR NODE MONITOR](https://github.com/mtaylan/SOLAR_NODE_Monitor_Discord) scriptindeki gözlem noktaları ve metodları temel aldım.)
 - [x] SXP ve Solar Ağını profesyonel iş ağımda tanıtarak, bir ticari firmanın Solar Ağında entegrasyon kararı almasını sağladım. Detayları [Yol Haritası](#yol-haritası) bölümünde bulabilirsiniz.
+
+<br>
 
 # Delege önergesi
 Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak için yüksek standartlı delege nodları çalıştırmak ve sürdürmek**. Buna ek olarak deneyimimi şu amaçlarla kullanacağım:
@@ -29,13 +33,17 @@ Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak iç
 - Bir minimum SXP tutarı yok - dileyen herkes dilediği miktar ile oylayabilir
 - Bir maximum SXP tutarı yok
 
- Ödül ve paylaşımları takip etmek için https://solar.osrn.network adresinde bir kontrol panel mevcut.
+ Ödül ve paylaşımları takip etmek için [https://solar.osrn.network](https://solar.osrn.network) adresinde bir kontrol panel mevcut.
+
+<br>
 
 ## Yol Haritası
-**(*)** Şubat ayında **Mikro Mobilite Kentsel Ulaşım girişimiyle** 4. çeyrekte duyurusunu yapacakları yeni projelerinde **SXP ile ödeme kabul etmeleri** ve yine aynı proje kapsamında çıkarmak istedikleri **NFT varlıklarını  Solar Ağında yayınlamalarına** imkan sağlamak üzere bir prensip anlaşması yaptık. Bu projeyi **Delege mtaylan** ile birlikte yürüteceğiz. Bu konuda detaylı bilgi ve planları, ilerleyen haftalarda firmanın pazarlama ve duyuru planlarına paralel olarak paylaşıyor olacağım.
+**(*)** Şubat ayında bir **Mikro Mobilite Kentsel Ulaşım girişimiyle** 4. çeyrekte duyurusunu yapacakları yeni projelerinde **SXP ile ödeme kabul etmeleri** ve yine aynı proje kapsamında çıkarmak istedikleri **NFT varlıklarını  Solar Ağında yayınlamalarına** imkan sağlamak üzere bir prensip anlaşması yaptık. Bu projeyi **[Delege mtaylan](https://delegates.solar.org/sxp/delegates/mtaylan)** ile birlikte yürüteceğiz. Bu konuda detaylı bilgi ve planları, firmanın pazarlama ve duyuru planlarına paralel olarak paylaşıyor olacağım.
+
+<br>
 
 ---
-**Bir delege olarak oyunuzu ve desteğinizi almaktan mutluluk duyacağım.**
+**Delege Oy ve desteğinizi almaktan mutluluk duyacağım.**
 
 Herhangi bir soru veya fikir için iletişime geçmekten çekinmeyin.
 
