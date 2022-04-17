@@ -27,7 +27,7 @@ Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak iç
 - Solar'ı profesyonel iş ağımda tanıtarak SXP ve Solar Ağını kullanan projeler geliştirilmesi için cesaretlendirmek ve destek olmak. Her yeni proje SXP talebi yaratmak ve ağın kullanımını artırmakta destek olacaktır.
 
 ## Ödül paylaşımı
-Ödüllerin **60%**'ını True Block Weight algoritmasını kullanarak dağıtacağım.
+Ödüllerin **70%**'ini True Block Weight algoritmasını kullanarak dağıtacağım.
 - Ödüller 24 saatte bir ve otomatik olarak paylaşılacak
 - Bir ödül kazanım alt limiti yok - herkese günlük ödeme yapılacak
 - Bir minimum SXP tutarı yok - dileyen herkes dilediği miktar ile oylayabilir
