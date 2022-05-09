@@ -1,7 +1,7 @@
 # osrn | Solar Ağı Delege Önerisi
 Testnet'in ilk aşamalarından beri Solar Delegesiyim. Telekom, Medya ve IoT alanlarında uzun yıllara dayanan Dijital Pazarlama, İş Geliştirme ve Mühendislik deneyimimle projeye katıldım. Bir teknoloji meraklısı olarak, blokzincir gibi yeni nesil teknolojilere doğal bir ilgim var ve 25 yıla yakın bir süredir de hem profesyonel hem de kişisel projelerde *nix tabanlı sistemler ve sunucular ile çalıştım, kurulum ve bakımını üstlendim.
 
-> *This delegate proposal is [available here in English](https://delegates.solar.org/sxp/delegates/osrn).*
+> *This delegate proposal is [available here in English](https://delegates.solar.org/delegates/osrn).*
 
 ## Solar Network'de şu ana kadar,
 
@@ -39,6 +39,8 @@ Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak iç
 
 ## Yol Haritası
 **(*)** Şubat ayında bir **Mikro Mobilite Kentsel Ulaşım girişimiyle** 4. çeyrekte duyurusunu yapacakları yeni projelerinde **SXP ile ödeme kabul etmeleri** ve yine aynı proje kapsamında çıkarmak istedikleri **NFT varlıklarını  Solar Ağında yayınlamalarına** imkan sağlamak üzere bir prensip anlaşması yaptık. Bu projeyi **[Delege mtaylan](https://delegates.solar.org/sxp/delegates/mtaylan)** ile birlikte yürüteceğiz. Bu konuda detaylı bilgi ve planları, firmanın pazarlama ve duyuru planlarına paralel olarak paylaşıyor olacağım.
+
+- Güncelleme 1: https://twitter.com/osrnnetwork/status/1520123320401862657?s=20&t=FcdMpM7uvs0djlVJcfEPMw
 
 <br>
 
