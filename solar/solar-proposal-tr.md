@@ -6,13 +6,15 @@ Testnet'in ilk aşamalarından beri Solar Delegesiyim. Telekom, Medya ve IoT ala
 ## Solar Network'de şu ana kadar,
 
 - [x] hem Mainnet hem de Devnet'te birden fazla node çalıştırdım, ve aktif olarak geliştirme ve test çalışmalarına katıldım.
-- [x] bir çok delege tarafından oy verenlerin ödüllerinin hesaplanması ve dağıtımında kullanılan[Galperins4/True Block Weight](https://github.com/galperins4/core2_tbw) ödül paylaşım algoritması kodlamasına düzenli olarak katkıda bulunuyor ve kurulumu için diğer delegelere destek oluyorum. Katkılarıma göz atmak için [GitHub alanımı ziyaret edin](https://github.com/osrn/core2_tbw)
+- [x] bir çok delege tarafından oy verenlerin ödüllerinin hesaplanması ve dağıtımında kullanılan[Galperins4/True Block Weight](https://github.com/galperins4/core2_tbw) algoritması kodlamasına düzenli olarak katkıda bulunuyor ve kurulumu için diğer delegelere destek oluyorum. Katkılarıma göz atmak için [GitHub alanımı ziyaret edin](https://github.com/osrn/core2_tbw)
 - [x] Solar Desktop Cüzdan kullanımı, swap ve oylama sürecini [Türkçe](https://youtu.be/WA38JbE3MlE) ve [İngilizce](https://youtu.be/W4qAOb50Pcw) olarak anlatan videolar yayınladım, Telegram ve Discord gruplarında yatırımcıların soru ve sorunlarında destek oldum.
 - [x] proje yol haritası gibi bilgileri sade ve görsel olarak anlatan [Türkçe](https://osrn.github.io/solar/solar-roadmap-2022-infogx-tr.jpg) ve [İngilizce](https://osrn.github.io/solar/solar-roadmap-2022-infogx-en.jpg) infografikler yayınladım.
 - bazı uygulamalara Türkçe dil desteği eklenmesine destek oldum.
 - [x] Telegram'da Solar Network Türkiye 🇹🇷 topluluğunun düzenlediği AMA oturumuna katıldım. Etkinliğin Türkçe dökümüne [bu linkten](https://t.me/solarnetwork_tr/17902), İngilizce dökümüne ise [bu linkten](https://youtu.be/howzWfVJUgA) ulaşabilirsiniz.
 - [x] sunucuları monitor eden ve sağlık durumunu anlık mesaj ile bildiren [Lazy Delegate](https://github.com/osrn/lazy-delegate), uygulamasını yazdım. (Piton tabanlı bu uygulamayı yazarken Delege mtaylan'ın daha önce yayınladığı [SOLAR NODE MONITOR](https://github.com/mtaylan/SOLAR_NODE_Monitor_Discord) scriptindeki gözlem noktaları ve metodları temel aldım.)
 - [x] SXP ve Solar Ağını profesyonel iş ağımda tanıtarak, bir ticari firmanın Solar Ağında entegrasyon kararı almasını sağladım. Detayları [Yol Haritası](#yol-haritası) bölümünde bulabilirsiniz.
+- [x] Solar Türkiye telegram grubu 3 Mayıs tarihli quiz etkinliğine sponsor oldum.
+- [x] Solar Art Contest etkinliğine sponsor oldum.
 
 <br>
 
@@ -27,7 +29,7 @@ Bir delege olarak asıl görevim **Solar Ağını çalışır durumda tutmak iç
 - Solar'ı profesyonel iş ağımda tanıtarak SXP ve Solar Ağını kullanan projeler geliştirilmesi için cesaretlendirmek ve destek olmak. Her yeni proje SXP talebi yaratmak ve ağın kullanımını artırmakta destek olacaktır.
 
 ## Ödül paylaşımı
-Ödüllerin **70%**'ini True Block Weight algoritmasını kullanarak dağıtacağım.
+Ödüllerin **%65**'ini True Block Weight algoritmasını kullanarak dağıtacağım.
 - Ödüller 24 saatte bir ve otomatik olarak paylaşılacak
 - Bir ödül kazanım alt limiti yok - herkese günlük ödeme yapılacak
 - Bir minimum SXP tutarı yok - dileyen herkes dilediği miktar ile oylayabilir
